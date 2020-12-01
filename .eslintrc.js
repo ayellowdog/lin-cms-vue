@@ -19,6 +19,7 @@ module.exports = {
     'no-underscore-dangle': 0, // 无下划线
     'no-restricted-syntax': 0,
     'consistent-return': 'off',
+    'linebreak-style': 'off',
     semi: ['error', 'never'],
     'no-prototype-builtins': 'off',
     'class-methods-use-this': 'off',
